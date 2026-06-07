@@ -1,0 +1,15 @@
+{
+  "words": {
+    "heyo": 1,
+    "sup": 1,
+    "hows": 1,
+    "going": 1,
+    "mornin": 1
+  },
+  "messages": [
+    "heyo",
+    "sup",
+    "hows it going",
+    "mornin"
+  ]
+}
