@@ -10,7 +10,7 @@ const TARGET_USER_ID = "";
 
 // ✅ OPENROUTER SETUP
 const openai = new OpenAI({
-  apiKey: "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",
+  apiKey: "",
   baseURL: "https://openrouter.ai/api/v1"
 });
 
