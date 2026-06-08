@@ -133,8 +133,8 @@ In the final week, I focused on testing and refining the system. This involved a
 Overall, the system is functional but not perfect. There are still instances where the bot produces unrealistic or irrelevant responses. Key areas for improvement include using a more advanced (paid) OpenAI model and expanding the dataset to improve the bot’s ability to mimic human-like communication.
 My project timeline was initially well-paced, but I struggled during the final two weeks due to technical challenges and dead ends, which affected my motivation and progress.
 Self-Evaluation of Success Criteria:
-•	Consistency Over Time: B
-•	Accuracy of Mimicry: B
-•	System Functionality: A
-•	Degree of Uncertainty (Human vs AI confusion): C
-•	Ability to Test and Learn: C
+- 	Consistency Over Time: B
+- 	Accuracy of Mimicry: B
+- 	System Functionality: A
+- 	Degree of Uncertainty: C
+- 	Ability to Test and Learn: C
