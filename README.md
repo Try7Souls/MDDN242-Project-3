@@ -138,3 +138,5 @@ Self-Evaluation of Success Criteria:
 - 	System Functionality: A
 - 	Degree of Uncertainty: C
 - 	Ability to Test and Learn: C
+
+<img src="ReadMe/ReadMeProgress_06.png">
