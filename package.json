@@ -1,6 +1,25 @@
 {
+  "name": "mddn242-project-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Try7Souls/MDDN242-Project-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Try7Souls/MDDN242-Project-3/issues"
+  },
+  "homepage": "https://github.com/Try7Souls/MDDN242-Project-3#readme",
   "dependencies": {
     "discord.js": "^14.26.4",
-    "openai": "^6.39.0"
+    "openai": "^6.42.0"
   }
 }

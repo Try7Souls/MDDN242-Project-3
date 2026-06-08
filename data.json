@@ -1,15 +1,512 @@
 {
   "words": {
-    "heyo": 1,
-    "sup": 1,
-    "hows": 1,
-    "going": 1,
-    "mornin": 1
+    "whats": 1
   },
   "messages": [
-    "heyo",
-    "sup",
-    "hows it going",
-    "mornin"
-  ]
+    "yo whats up",
+    "testing",
+    "hello",
+    "testing",
+    "bro thats crazy",
+    "nah fr",
+    "idk man thats weird",
+    "what u doing",
+    "lowkey funny",
+    "bruh no way",
+    "im not doing that",
+    "idk bro",
+    "thats wild",
+    "nah i dont think so",
+    "wait what",
+    "im confused",
+    "bro what",
+    "nah thats dumb",
+    "im tired",
+    "idk about that",
+    "thats kinda funny",
+    "no way bro",
+    "what u mean",
+    "idk really",
+    "thats kinda wild",
+    "nah bro",
+    "im not sure",
+    "lowkey weird",
+    "thats funny tho",
+    "bruh moment",
+    "idk tbh",
+    "nah thats crazy",
+    "what happened",
+    "idk whats going on",
+    "stop thats funny",
+    "nah fr thats wild",
+    "im not even joking",
+    "bro chill",
+    "idk man",
+    "thats weird bro",
+    "nah i cant",
+    "lowkey true",
+    "bruh seriously",
+    "idk why",
+    "what are you doing",
+    "nah thats dumb bro",
+    "im bored",
+    "idk seems weird",
+    "nah thats not it",
+    "thats actually funny",
+    "bro thats wild",
+    "lowkey not bad",
+    "idk about it",
+    "nah im good",
+    "idk what you mean tho",
+    "nah thats not it bro",
+    "thats kinda weird actually",
+    "what are you even saying",
+    "nah im confused now",
+    "bro that makes no sense",
+    "lowkey not sure about that",
+    "idk thats kinda funny tho",
+    "sucker for food honestly",
+    "idk i just like it bro",
+    "depends what it is",
+    "nah that sounds mid",
+    "idk im not picky",
+    "why would i even do that",
+    "nah what are you saying",
+    "bro that makes no sense",
+    "idk what youre on about",
+    "thats kinda weird ngl",
+    "what do you mean by that",
+    "nah explain that again",
+    "bro explain that again",
+    "idk that sounds confusing'",
+    "why would that even happen",
+    "nah im good on that",
+    "what are you on about",
+    "idk thats kinda strange",
+    "nah that aint it bro",
+    "thats actually kinda funny",
+    "bro you serious right now",
+    "idk that doesnt seem right",
+    "nah you tripping",
+    "idk thats kinda sus",
+    "bro thats questionable",
+    "bro that caught me off guard",
+    "nah that doesnt sound right",
+    "nah i wouldnt trust that",
+    "nah thats not what i meant",
+    "bro thats confusing",
+    "nah i wouldnt do that",
+    "bro thats questionable",
+    "bro you serious right now",
+    "bro explain that again",
+    "bro thats kinda random",
+    "bro stop playing",
+    "hello",
+    "heya",
+    "good",
+    "good",
+    "whats everyone doing",
+    "heya",
+    "heya",
+    "heya",
+    "heya",
+    "thanks",
+    "anyone down to play some tonight",
+    "yo",
+    "yeah good not doing much",
+    "yeah good not doing much",
+    "sweet"
+  ],
+  "chain": {
+    "bro": [
+      "thats",
+      "what",
+      "chill",
+      "thats",
+      "that",
+      "that",
+      "explain",
+      "you",
+      "thats",
+      "that",
+      "thats",
+      "thats",
+      "you",
+      "explain",
+      "thats",
+      "stop"
+    ],
+    "thats": [
+      "crazy",
+      "weird",
+      "wild",
+      "dumb",
+      "kinda",
+      "kinda",
+      "funny",
+      "crazy",
+      "funny",
+      "wild",
+      "weird",
+      "dumb",
+      "not",
+      "actually",
+      "wild",
+      "not",
+      "kinda",
+      "kinda",
+      "kinda",
+      "kinda",
+      "actually",
+      "kinda",
+      "questionable",
+      "not",
+      "confusing",
+      "questionable",
+      "kinda"
+    ],
+    "nah": [
+      "fr",
+      "dont",
+      "thats",
+      "bro",
+      "thats",
+      "fr",
+      "cant",
+      "thats",
+      "thats",
+      "im",
+      "thats",
+      "im",
+      "that",
+      "what",
+      "explain",
+      "im",
+      "that",
+      "you",
+      "that",
+      "wouldnt",
+      "thats",
+      "wouldnt"
+    ],
+    "idk": [
+      "man",
+      "bro",
+      "about",
+      "really",
+      "tbh",
+      "whats",
+      "man",
+      "why",
+      "seems",
+      "about",
+      "what",
+      "thats",
+      "just",
+      "im",
+      "what",
+      "that",
+      "thats",
+      "that",
+      "thats"
+    ],
+    "man": [
+      "thats"
+    ],
+    "what": [
+      "doing",
+      "mean",
+      "happened",
+      "are",
+      "you",
+      "are",
+      "it",
+      "are",
+      "youre",
+      "do",
+      "are",
+      "meant"
+    ],
+    "lowkey": [
+      "funny",
+      "weird",
+      "true",
+      "not",
+      "not"
+    ],
+    "bruh": [
+      "no",
+      "moment",
+      "seriously"
+    ],
+    "no": [
+      "way",
+      "way",
+      "sense",
+      "sense"
+    ],
+    "im": [
+      "not",
+      "confused",
+      "tired",
+      "not",
+      "not",
+      "bored",
+      "good",
+      "confused",
+      "not",
+      "good"
+    ],
+    "not": [
+      "doing",
+      "sure",
+      "even",
+      "it",
+      "bad",
+      "it",
+      "sure",
+      "picky",
+      "what",
+      "doing",
+      "doing"
+    ],
+    "doing": [
+      "that",
+      "much",
+      "much"
+    ],
+    "dont": [
+      "think"
+    ],
+    "think": [
+      "so"
+    ],
+    "wait": [
+      "what"
+    ],
+    "about": [
+      "that",
+      "it",
+      "that"
+    ],
+    "kinda": [
+      "funny",
+      "wild",
+      "weird",
+      "funny",
+      "weird",
+      "strange",
+      "funny",
+      "sus",
+      "random"
+    ],
+    "way": [
+      "bro"
+    ],
+    "funny": [
+      "tho",
+      "tho"
+    ],
+    "whats": [
+      "going",
+      "everyone"
+    ],
+    "going": [
+      "on"
+    ],
+    "stop": [
+      "thats",
+      "playing"
+    ],
+    "fr": [
+      "thats"
+    ],
+    "even": [
+      "joking",
+      "saying",
+      "do",
+      "happen"
+    ],
+    "weird": [
+      "bro",
+      "actually",
+      "ngl"
+    ],
+    "are": [
+      "you",
+      "you",
+      "you",
+      "you"
+    ],
+    "you": [
+      "doing",
+      "mean",
+      "even",
+      "saying",
+      "mean",
+      "on",
+      "serious",
+      "tripping",
+      "serious"
+    ],
+    "dumb": [
+      "bro"
+    ],
+    "seems": [
+      "weird"
+    ],
+    "actually": [
+      "funny",
+      "kinda"
+    ],
+    "mean": [
+      "tho",
+      "by"
+    ],
+    "it": [
+      "bro",
+      "bro",
+      "is",
+      "bro"
+    ],
+    "confused": [
+      "now"
+    ],
+    "that": [
+      "makes",
+      "sounds",
+      "makes",
+      "again",
+      "again",
+      "sounds",
+      "even",
+      "aint",
+      "doesnt",
+      "caught",
+      "doesnt",
+      "again"
+    ],
+    "makes": [
+      "no",
+      "no"
+    ],
+    "sure": [
+      "about"
+    ],
+    "sucker": [
+      "for"
+    ],
+    "for": [
+      "food"
+    ],
+    "food": [
+      "honestly"
+    ],
+    "just": [
+      "like"
+    ],
+    "like": [
+      "it"
+    ],
+    "depends": [
+      "what"
+    ],
+    "sounds": [
+      "mid",
+      "confusing"
+    ],
+    "why": [
+      "would",
+      "would"
+    ],
+    "would": [
+      "even",
+      "that"
+    ],
+    "do": [
+      "that",
+      "you",
+      "that"
+    ],
+    "youre": [
+      "on"
+    ],
+    "on": [
+      "about",
+      "that",
+      "about"
+    ],
+    "by": [
+      "that"
+    ],
+    "explain": [
+      "that",
+      "that",
+      "that"
+    ],
+    "good": [
+      "on",
+      "not",
+      "not"
+    ],
+    "aint": [
+      "it"
+    ],
+    "serious": [
+      "right",
+      "right"
+    ],
+    "right": [
+      "now",
+      "now"
+    ],
+    "doesnt": [
+      "seem",
+      "sound"
+    ],
+    "seem": [
+      "right"
+    ],
+    "caught": [
+      "me"
+    ],
+    "me": [
+      "off"
+    ],
+    "off": [
+      "guard"
+    ],
+    "sound": [
+      "right"
+    ],
+    "wouldnt": [
+      "trust",
+      "do"
+    ],
+    "trust": [
+      "that"
+    ],
+    "everyone": [
+      "doing"
+    ],
+    "anyone": [
+      "down"
+    ],
+    "down": [
+      "to"
+    ],
+    "to": [
+      "play"
+    ],
+    "play": [
+      "some"
+    ],
+    "some": [
+      "tonight"
+    ],
+    "yeah": [
+      "good",
+      "good"
+    ]
+  }
 }
